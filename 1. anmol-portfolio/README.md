@@ -57,13 +57,13 @@ All you need is a web browser. For development, a code editor like VS Code is re
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/anmoljaisinghani/My-Portfolios.git
+git clone https://github.com/anmoljaisinghani/Basic-Frontend-Portfolios.git
 ```
 
 2. **Navigate to the project directory:**
 
 ```bash
-cd HTML_CSS_JS Portfolios
+cd 1. anmol-portfolio
 ```
 
 3. **Open `index.html`:**  
