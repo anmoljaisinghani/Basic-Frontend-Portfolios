@@ -87,8 +87,7 @@ Feel free to fork this repository and tailor it to your own needs! To do so:
 
 ## ⚖️ License
 
-This project is **open source** under the **MIT License**.  
-*(Please add a `LICENSE` file in your repository to specify license details.)*
+This project is **open source** under the **Apache License 2.0**.
 
 ---
 
