@@ -1,5 +1,3 @@
----
-
 # 📱 WhatsApp-Like Portfolio Website 🌟
 
 **Welcome to my WhatsApp-inspired portfolio website!** 🚀✨  
