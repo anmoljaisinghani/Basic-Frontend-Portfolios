@@ -30,7 +30,7 @@ This portfolio showcases my **web development skills**, **projects**, and **pass
 ## 🌐 Live Demo
 
 Check out the live version of this portfolio here:  
-👉 **[View Live Demo](https://portfolio2-htmlcssjs.netlify.app/)**
+👉 **[View Live Demo](https://portfolio2-basicfrontendportfolios.netlify.app/)**
 
 ---
 
