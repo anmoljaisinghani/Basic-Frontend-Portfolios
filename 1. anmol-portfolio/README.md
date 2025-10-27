@@ -71,7 +71,7 @@ Simply open the `index.html` file in your preferred web browser to view the webs
 
 ### Live Demo
 
-You can also view a live version here: [View Live Portfolio](https://portfolio1-htmlcssjs.netlify.app/)
+You can also view a live version here: [View Live Portfolio](https://portfolio1-basicfrontendportfolios.netlify.app/)
 
 ---
 
